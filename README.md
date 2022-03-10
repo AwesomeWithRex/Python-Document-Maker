@@ -1,5 +1,5 @@
 # Docs
-![](Images/DocMaker.png)
+![](DocMaker.png)
 ## contents
 [Instructions](#instructions/building)
 [Text To HTML](#basic-text-to-html)
