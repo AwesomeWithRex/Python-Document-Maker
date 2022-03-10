@@ -12,5 +12,7 @@ Just make sure your on the Github page and press releases and download the newes
 To use this all you have to do is make sure this is installed and goto Docs/text.txt,
 edit that to your hearts delight! When your done, double click: 
 ###### main.py
-Then open the.html and it should work!
+Then open 
+###### the.html 
+and it should work!
 If you have issues report them via Github.
