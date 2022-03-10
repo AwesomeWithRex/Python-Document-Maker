@@ -4,6 +4,7 @@ This is a very easy way to make HTML Documents without code.
 ## Contents
 [Downloading](#downloading)
 [Instructions](#using)
+[Other](#other stuff)
 ## Downloading
 Just make sure your on the Github page and press releases and download the newest release!
 Link: https://github.com/AwesomeWithRex/Python-Document-Maker/
@@ -17,3 +18,10 @@ Then open
 ###### the.html 
 and it should work!
 If you have issues report them via Github.
+## Other stuff
+### Renaming the page title
+Right click template.html and hover your cursor over open with... and click notepad 
+now find <title>Document</title> and change Document to what it should be called.
+### Adding images
+Now your going to have to use code for this.
+I'll add how to do this later.
