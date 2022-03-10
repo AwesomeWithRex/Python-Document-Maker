@@ -6,6 +6,7 @@ This is a very easy way to make HTML Documents without code.
 [Instructions](#using)
 ## Downloading
 Just make sure your on the Github page and press releases and download the newest release!
+Link: https://github.com/AwesomeWithRex/Python-Document-Maker/
 ## Using
 ### Instructions
 ##### MAKE SURE YOU HAVE PYTHON!!!
