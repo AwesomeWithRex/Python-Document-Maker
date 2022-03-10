@@ -21,7 +21,7 @@ If you have issues report them via Github.
 ## Other stuff
 ### Renaming the page title
 Right click template.html and hover your cursor over open with... and click notepad 
-now find "<title>Document</title>" and change Document to what it should be called.
+now find "Document" in between title and change Document to what it should be called.
 ### Adding images
 Now your going to have to use code for this.
 I'll add how to do this later.
