@@ -12,3 +12,5 @@ This is another super small project. All it does is take text from an text file 
 Edit the text.txt file to your doc
 then double click main.py
 then it should work!
+### For more info please visit the website. 
+#### https://awesomewithrex.github.io/Python-Document-Maker/
